@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0git;
+    padding: 0;
 }
 main {
     width: 100%;
@@ -13,14 +13,19 @@ main {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.banner img {
+    position: absolute;
+    top: 208px;
+    right: 70%;
+}
 h1 {
     text-transform: uppercase;
-    font-weight: bolder;
-    font-size: 40px;
-    padding-top: 150px;
+    font-weight: inherit;
+    font-size: 50px;
+    padding-top: 200px;
 }
 .conteudin {
-    font-size: 15px;
-    font-weight: ;
-    padding-top: 50px;
+    font-size: 13px;
+    font-weight: 600;
+    padding-top: 25px;
 }

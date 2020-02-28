@@ -70,12 +70,14 @@
     align-items: center;
     height: 65px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 .header_logo{
-    font-size: 15px;
+    font-size: 25px;
     color: #010101;
-    margin-left: 22%;
+    margin-left: 25%;
     margin-right: 30px;
+    
 }
 .header_menu{
     font-size: 15px;
@@ -113,7 +115,7 @@ main {
 }
 .banner img {
     position: absolute;
-    top: 208px;
+    top: 275px;
     right: 70%;
 }
 h1 {

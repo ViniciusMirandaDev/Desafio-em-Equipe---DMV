@@ -2,16 +2,64 @@
     margin: 0;
     padding: 0;
 }
+.section_cards{
+    width: 100%;
+}
 .cards{
     align-items: center;
     text-align: center;
+}
+.cards h2{
+    color: aqua;
+    padding-top: 15px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.cards p{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .cards_conteudo{
     display: flex;
     justify-content: space-around;
     align-items: center;
     text-align: center;
+    padding: 50px 520px;
 }
 .cards_conteudo img{
     width: 100px;
+}
+.service1 h3{
+    color: aqua;
+    padding-top: 15px;
+}
+.service1 p{
+    font-size: 15px;
+    color: grey;
+    padding-top: 15px;
+    width: 200px;
+}
+.service2 h3{
+    color: aqua;
+    padding-top: 15px;
+}
+.service2 p{
+    font-size: 15px;
+    color: grey;
+    padding-top: 15px;
+    width: 200px;
+
+}
+.service3 h3{
+    color: aqua;
+    padding-top: 15px;
+}
+.service3 p{
+    font-size: 15px;
+    color: grey;
+    padding-top: 15px;
+    width: 200px;
 }

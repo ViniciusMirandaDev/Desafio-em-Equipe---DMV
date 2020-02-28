@@ -2,3 +2,16 @@
     margin: 0;
     padding: 0;
 }
+.cards{
+    align-items: center;
+    text-align: center;
+}
+.cards_conteudo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.cards_conteudo img{
+    width: 100px;
+}
